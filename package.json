@@ -22,6 +22,7 @@
     "fbp-protocol-client": "^0.3.0",
     "noflo": "~1.1.1",
     "noflo-adapters": "^0.3.0",
+    "noflo-aiextension": "github:YanMinge/noflo-aiextension#main",
     "noflo-ajax": "^0.3.0",
     "noflo-amd": "^0.2.0",
     "noflo-assembly": "^0.3.1",
